@@ -1,0 +1,12 @@
+import React from 'react';
+import DarkModeToggle from './components/DarkModeToggle';
+
+function App() {
+  return (
+    <div className="App">
+        <DarkModeToggle />
+    </div>
+  );
+}
+
+export default App;
